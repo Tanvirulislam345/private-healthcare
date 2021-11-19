@@ -1,0 +1,20 @@
+.tainerCard{
+    border-radius: 10px;
+}
+.tainerCard:hover{
+    border:  2px solid rgb(129, 72, 72);
+}
+.trainerName{
+    font-weight: bold;
+    color: red;
+}
+.trainerIcon{
+    margin-right: 20px;
+}
+.trainerIcon:hover{
+    background-color: rgb(77, 11, 11);
+    border-radius: 5px;
+}
+.iconGroup{
+  text-align: center;
+}

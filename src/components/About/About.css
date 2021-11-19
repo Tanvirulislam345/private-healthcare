@@ -1,0 +1,21 @@
+.about{
+    background-image: url(https://image.freepik.com/free-photo/young-fitness-man-studio_7502-5008.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.aboutRow{
+border-radius: 10px;
+background-color: rgb(230, 227, 227);
+margin-bottom: 20px;
+width: 270px;
+
+}
+.aboutRow h4{
+    font-weight: bold;
+    color: black;
+}
+.aboutRow h6{
+    font-weight: bold;
+    color: red;
+}

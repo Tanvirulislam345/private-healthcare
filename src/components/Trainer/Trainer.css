@@ -1,0 +1,13 @@
+.trainerCover{
+background-image: linear-gradient(rgb(0, 0, 0.9), rgb(0, 0, 0.9));
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+}
+.trainerContainer .trainer{
+    color: white;
+}
+
+.trainerContainer p{
+    color: white;
+}

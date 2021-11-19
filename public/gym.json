@@ -1,0 +1,44 @@
+[
+  {
+    "id": "1",
+    "picture": "https://image.freepik.com/free-photo/group-young-sporty-people-sitting-sukhasana-exercise_1163-4940.jpg",
+    "name": "Meditation",
+    "description": "Meditation is a process of lightening up, of trusting the basic goodness of what we have and who we are, it fresh our mind",
+    "fee": "$139.62"
+  },
+  {
+    "id": "2",
+    "picture": "https://image.freepik.com/free-photo/young-woman-bow-exercise_1163-5061.jpg",
+    "name": "Yoga",
+    "description": "True yoga is not about the shape of your body, but the shape of your life. Not be performed but  yoga is to be lived",
+    "fee": "$111.52"
+  },
+  {
+    "id": "3",
+    "picture": "https://image.freepik.com/free-photo/sport-lifestyle-fitness-male-training_1139-724.jpg",
+    "name": "Freehand",
+    "description": "A healthy diet and a mix of these basic workouts will help keep you in shapeTo get a decent body, it is important for us .",
+    "fee": "$101.04"
+  },
+  {
+    "id": "4",
+    "picture": "https://image.freepik.com/free-photo/cycling-equipment-healthy-fit-fitness_1139-686.jpg",
+    "name": "Cycling",
+    "description": "riding a bicycle that you learn the contours of a country best, since you heave to sweat up the hills and can coast down",
+    "fee": "$144.60"
+  },
+  {
+    "id": "5",
+    "picture": "https://image.freepik.com/free-photo/young-muscular-athlete-practicing-gym-with-weights_155003-35492.jpg",
+    "name": "Heavy Weight",
+    "description": "You do not need to do many different exercises to get strong - you need to get strong on a very few important exercises",
+    "fee": "$108.17"
+  },
+  {
+    "id": "6",
+    "picture": "https://image.freepik.com/free-photo/sports-girl-black-top-training-autumn-park_1157-28605.jpg",
+    "name": "Regular Exercise",
+    "description": "In two weeks, you'll feel it. In four weeks, you'll see it. In eight weeks, you'll hear it, you can start it now for your health",
+    "fee": "$94.97"
+  }
+]
